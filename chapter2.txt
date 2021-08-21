@@ -1,1 +1,1 @@
-This is chapter2, I'm going to explain what is git in detail.
+This is chapter2, I'm going to explain what is git in detail. I need to make some change for alien-plot.
